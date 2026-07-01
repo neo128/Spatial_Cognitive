@@ -109,6 +109,8 @@ This repository provides a curated list of papers analyzed in the survey, follow
 ##### 3D Geometry-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Cog3DMap: Multi-View Vision-Language Reasoning with 3D Cognitive Maps](https://arxiv.org/abs/2603.23023) | 2026 | arXiv |
+| [SpaceMind++: Toward Allocentric Cognitive Maps for Spatially Grounded Video MLLMs](https://arxiv.org/abs/2605.09449) | 2026 | arXiv |
 | [CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval](https://arxiv.org/abs/2601.08175) | 2026 | ICLR |
 | [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](https://arxiv.org/abs/2601.08325) | 2026 | arXiv |
 | [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
@@ -129,6 +131,7 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 1.1.2 Parametric Coordinate-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://arxiv.org/abs/2606.02459) | 2026 | arXiv |
 | [Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation](https://arxiv.org/abs/2601.01984) | 2026 | arXiv |
 | [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
 | [Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Perspective-Aware_Reasoning_in_Vision-Language_Models_via_Mental_Imagery_Simulation_ICCV_2025_paper.pdf) | 2025 | ICCV |
@@ -144,6 +147,7 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 1.2.1 Structured Graph-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning](https://arxiv.org/abs/2602.02456) | 2026 | arXiv |
 | [Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning](https://arxiv.org/abs/2602.04419) | 2026 | ICRA |
 | [VPN: Visual Prompt Navigation](https://arxiv.org/abs/2508.01766) | 2026 | AAAI |
 | [RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2601.10168) | 2026 | arXiv |
@@ -176,6 +180,9 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 1.2.2 Serialized Graph-based
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents](https://arxiv.org/abs/2604.19034) | 2026 | arXiv |
+| [Robot Planning and Situation Handling with Active Perception](https://arxiv.org/abs/2604.26988) | 2026 | arXiv |
+| [EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation](https://arxiv.org/abs/2606.03509) | 2026 | arXiv |
 | [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840) | 2026 | AAAI |
 | [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | arXiv |
 | [Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments](https://arxiv.org/abs/2506.00083) | 2025 | arXiv |
@@ -197,6 +204,8 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 1.3.1 Hierarchical Architecture
 | Title | Year | Venue |
 | --- | --- | --- |
+| [SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning](https://arxiv.org/abs/2606.08992) | 2026 | arXiv |
+| [MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning](https://arxiv.org/abs/2605.13037) | 2026 | arXiv |
 | [GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation](https://arxiv.org/abs/2504.09587) | 2026 | PR |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
 | [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687) | 2026 | ICLR |
@@ -263,6 +272,8 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 2.1.2 Latent Feature Matching
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Cog3DMap: Multi-View Vision-Language Reasoning with 3D Cognitive Maps](https://arxiv.org/abs/2603.23023) | 2026 | arXiv |
+| [SpaceMind++: Toward Allocentric Cognitive Maps for Spatially Grounded Video MLLMs](https://arxiv.org/abs/2605.09449) | 2026 | arXiv |
 | [VPN: Visual Prompt Navigation](https://arxiv.org/abs/2508.01766) | 2026 | AAAI |
 | [History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation](https://arxiv.org/abs/2512.14222) | 2026 | AAAI |
 | [SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning](https://arxiv.org/abs/2601.04699) | 2026 | AAAI |
@@ -293,6 +304,9 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 2.2.1 Textual Prompting
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning](https://arxiv.org/abs/2603.23404) | 2026 | arXiv |
+| [CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence](https://arxiv.org/abs/2606.10401) | 2026 | arXiv |
+| [MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning](https://arxiv.org/abs/2605.13037) | 2026 | arXiv |
 | [Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation](https://arxiv.org/abs/2601.01984) | 2026 | arXiv |
 | [LOG-Nav: Efficient Layout-Aware Object-Goal Navigation with Hierarchical Planning](https://arxiv.org/abs/2505.06131) | 2026 | AAAI |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
@@ -342,6 +356,8 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 2.3.1 Real-time State Snapshot
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Robot Planning and Situation Handling with Active Perception](https://arxiv.org/abs/2604.26988) | 2026 | arXiv |
+| [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://arxiv.org/abs/2606.02459) | 2026 | arXiv |
 | [Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning](https://arxiv.org/abs/2602.04419) | 2026 | ICRA |
 | [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
 | [CAUSALNAV: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios](https://arxiv.org/abs/2601.01872) | 2026 | RAL |
@@ -356,6 +372,10 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 2.3.2 Persistent Spatial Memory
 | Title | Year | Venue |
 | --- | --- | --- |
+| [SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning](https://arxiv.org/abs/2606.08992) | 2026 | arXiv |
+| [EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation](https://arxiv.org/abs/2606.03509) | 2026 | arXiv |
+| [Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents](https://arxiv.org/abs/2604.19034) | 2026 | arXiv |
+| [MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning](https://arxiv.org/abs/2605.13037) | 2026 | arXiv |
 | [PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840) | 2026 | AAAI |
 | [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | 2025 | arXiv |
 | [Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding](https://arxiv.org/abs/2501.00358) | 2025 | ICCV |
@@ -414,6 +434,8 @@ This repository provides a curated list of papers analyzed in the survey, follow
 ### 3.2 Dynamic World Simulation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Mirage: Latent Spatial Memory for Video World Models](https://arxiv.org/abs/2606.09828) | 2026 | arXiv |
+| [Beyond Pixel Histories: World Models with Persistent 3D State](https://arxiv.org/abs/2603.03482) | 2026 | arXiv |
 | [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
 | [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](https://arxiv.org/abs/2601.05138) | 2025 | arXiv |
 | [Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716) | 2025 | arXiv |
@@ -434,6 +456,14 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 4.1.1 Spatial Question Answering
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Cog3DMap: Multi-View Vision-Language Reasoning with 3D Cognitive Maps](https://arxiv.org/abs/2603.23023) | 2026 | arXiv |
+| [SpaceMind++: Toward Allocentric Cognitive Maps for Spatially Grounded Video MLLMs](https://arxiv.org/abs/2605.09449) | 2026 | arXiv |
+| [SpatialTree: How Spatial Intelligence Branches Out in MLLMs](https://arxiv.org/abs/2512.20617) | 2026 | CVPR |
+| [SpatialText: A Pure-Text Cognitive Benchmark for Spatial Understanding in Large Language Models](https://arxiv.org/abs/2603.03002) | 2026 | arXiv |
+| [Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning](https://arxiv.org/abs/2603.23404) | 2026 | arXiv |
+| [CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence](https://arxiv.org/abs/2606.10401) | 2026 | arXiv |
+| [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://arxiv.org/abs/2606.02459) | 2026 | arXiv |
+| [Limits of Spatial Imagery Reasoning in Frontier LLM Models](https://arxiv.org/abs/2603.26779) | 2026 | arXiv |
 | [Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation](https://arxiv.org/abs/2601.01984) | 2026 | arXiv |
 | [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/abs/2601.11442) | 2026 | arXiv |
 | [Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160) | 2025 | arXiv |
@@ -478,6 +508,8 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 4.1.3 Open-ended World Generation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Mirage: Latent Spatial Memory for Video World Models](https://arxiv.org/abs/2606.09828) | 2026 | arXiv |
+| [Beyond Pixel Histories: World Models with Persistent 3D State](https://arxiv.org/abs/2603.03482) | 2026 | arXiv |
 | [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://arxiv.org/abs/2601.00393) | 2026 | arXiv |
 | [Generative Gaussian Splatting for Unbounded 3D City Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Generative_Gaussian_Splatting_for_Unbounded_3D_City_Generation_CVPR_2025_paper.pdf) | 2025 | CVPR |
 | [Agentic 3D Scene Generation with Spatially Contextualized VLMs](https://arxiv.org/abs/2505.20129) | 2025 | arXiv |
@@ -499,6 +531,9 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 4.2.1 Embodied Navigation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning](https://arxiv.org/abs/2606.08992) | 2026 | arXiv |
+| [EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation](https://arxiv.org/abs/2606.03509) | 2026 | arXiv |
+| [Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents](https://arxiv.org/abs/2604.19034) | 2026 | arXiv |
 | [GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation](https://arxiv.org/abs/2504.09587) | 2026 | PR |
 | [OmniNav: A Unified Framework for Prospective Exploration and Visual-Language Navigation](https://arxiv.org/abs/2509.25687) | 2026 | ICLR |
 | [What You See is What You Reach: Towards Spatial Navigation with High-Level Human Instructions](https://openreview.net/pdf?id=ow65qpDY3Q) | 2026 | AAAI |
@@ -565,6 +600,8 @@ This repository provides a curated list of papers analyzed in the survey, follow
 #### 4.2.2 Embodied Manipulation
 | Title | Year | Venue |
 | --- | --- | --- |
+| [Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning](https://arxiv.org/abs/2602.02456) | 2026 | arXiv |
+| [Robot Planning and Situation Handling with Active Perception](https://arxiv.org/abs/2604.26988) | 2026 | arXiv |
 | [Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning](https://arxiv.org/abs/2602.04419) | 2026 | ICRA |
 | [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](https://arxiv.org/abs/2601.08325) | 2026 | arXiv |
 | [MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning](https://arxiv.org/abs/2512.16909) | 2025 | arXiv |
